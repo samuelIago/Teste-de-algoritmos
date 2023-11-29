@@ -4,10 +4,12 @@
 float somar(float a, float b){
     int i;
     for (i=a; i<b; i++){
-        return a+b;
+       // int adicao +=i;
+        
     }
+   // return adicao;
 }
-
+//desculpe nao consegui fazer essa
 int main(void){
     float x,y,somas;
     printf("Insira o primeiro valor:\n");
